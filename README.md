@@ -1,7 +1,5 @@
 # Weather App
 
-![Weather App Logo](https://via.placeholder.com/150?text=Weather+App+Logo)
-
 A simple weather application that allows users to get the current weather details for a specific location and city.
 
 ---
@@ -13,8 +11,6 @@ A simple weather application that allows users to get the current weather detail
 - 📱 **Responsive design** for all devices.
 
 ## Technologies Used
-
-![Technologies Used](https://via.placeholder.com/500x100?text=HTML+CSS+JavaScript+Node.js+Express.js+MongoDB)
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
